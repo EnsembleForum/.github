@@ -11,3 +11,7 @@ This is our capstone project, made with <3 for [UNSW's COMP3900 course](https://
 * [Miguel Guthridge](https://github.com/MiguelGuthridge)
 * Yuk Liang Khor
 * Andrew Park
+
+# The code
+
+Currently, our code is private while it is marked, however we plan to make it public in the not-too-distant future!
