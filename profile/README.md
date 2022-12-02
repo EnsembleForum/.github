@@ -1,4 +1,4 @@
-![Banner](./EnsembleForumBanner.png)
+![Banner](../EnsembleForumBanner.png)
 
 A next-gen forum designed for teachers and students alike.
 
